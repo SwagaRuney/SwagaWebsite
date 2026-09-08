@@ -1,6 +1,10 @@
-       @font-face {
+        @font-face {
             font-family: PixelOperatorMono;
             src: url("../PixelOperatorMonoHB8.ttf");
+    }
+        .spongefont {
+            font-family: spongeFont;
+            src: url("../SomeTimeLater.otf");
     }
         canvas {
             image-rendering: pixelated;
