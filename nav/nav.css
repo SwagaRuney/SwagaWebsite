@@ -1,0 +1,7 @@
+        @font-face {
+            font-family: PixelOperatorMono;
+            src: url("../PixelOperatorMonoHB8.ttf");
+    }
+        body {
+            font-family: 'PixelOperatorMono';font-size: 16px;
+    }
